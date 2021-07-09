@@ -11,3 +11,12 @@ swift学习文件夹
 1、渐变layer的使用
 ### Swipeable
 1、cell的可编辑
+### PickerView
+1、pickview的使用
+2、随机数
+### EnumView
+1、UIView 动画
+2、随机数
+### LoginAnimation
+1、CAFrameAnimation 使用
+
